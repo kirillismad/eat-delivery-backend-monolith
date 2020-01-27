@@ -10,6 +10,7 @@ idea/
 log_dir/
 .vagrant
 __pycache__/
+src/.idea/
 src/test_media/
 src/media_root/
 src/static_root/
