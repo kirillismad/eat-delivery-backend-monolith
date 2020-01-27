@@ -9,7 +9,6 @@ SECRET_KEY = env.get(
     't#8g0zn1wp1y$1^5*8f%mwf7)t)1g*@h@k3rq2ndyh6jd^8t)%'
 )
 
-
 MEDIA_ROOT = pathlib.Path(
     env.get('MEDIA_ROOT', BASE_DIR.joinpath('media_root'))
 )
